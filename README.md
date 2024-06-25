@@ -55,6 +55,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
+   <img src="https://w7.pngwing.com/pngs/675/954/png-transparent-elasticsearch-kibana-logo-logstash-business-business-people-logo-computer-wallpaper-thumbnail.png" height="40" alt="grafana logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
